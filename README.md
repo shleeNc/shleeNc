@@ -1,2 +1,2 @@
 #shleeNC
-"# shleeNc" 
+This is a shleeNC repository
